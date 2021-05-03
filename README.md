@@ -1,11 +1,12 @@
-# Ramen-Analysis
+![Add a heading-5](https://user-images.githubusercontent.com/22153509/116939092-be415c80-ac39-11eb-893f-e685f0b69271.png)
+
 
 ##  Inspiration:
 I decided to do some EDA with my favorite food: RAMEN. Along with that, I wanted to experiment with some NLP.
 
 
 ## Context:
-This data comes from Ramen Rater, which is a product review website for Ramen. The kaggle can be found here, and the actual CSV data can be founded here.
+This data comes from Ramen Rater, which is a product review website for Ramen. The [kaggle can be found here](https://www.kaggle.com/residentmario/ramen-ratings), and [the actual CSV data can be founded here.](https://www.theramenrater.com/resources-2/the-list/)
 
 ## Here's what I learned.
 
